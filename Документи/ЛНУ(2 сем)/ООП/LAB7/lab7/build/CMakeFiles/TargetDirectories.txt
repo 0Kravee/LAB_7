@@ -1,0 +1,7 @@
+/home/vladyslav/Документи/ЛНУ(2 сем)/ООП/LAB7/lab7/build/CMakeFiles/lab7.dir
+/home/vladyslav/Документи/ЛНУ(2 сем)/ООП/LAB7/lab7/build/CMakeFiles/edit_cache.dir
+/home/vladyslav/Документи/ЛНУ(2 сем)/ООП/LAB7/lab7/build/CMakeFiles/rebuild_cache.dir
+/home/vladyslav/Документи/ЛНУ(2 сем)/ООП/LAB7/lab7/build/CMakeFiles/list_install_components.dir
+/home/vladyslav/Документи/ЛНУ(2 сем)/ООП/LAB7/lab7/build/CMakeFiles/install.dir
+/home/vladyslav/Документи/ЛНУ(2 сем)/ООП/LAB7/lab7/build/CMakeFiles/install/local.dir
+/home/vladyslav/Документи/ЛНУ(2 сем)/ООП/LAB7/lab7/build/CMakeFiles/install/strip.dir
